@@ -1,0 +1,19 @@
+.navbar{
+ background-color: #1c1c1c ;
+ height: 60px;
+ padding-right:10px
+}
+.navul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+}
+.btnnav{
+    border-radius:10px;
+    background-color: #FF9800 ;
+    width: 100px ;
+    height:30px;
+    margin-top:15px;
+    color:white
+}

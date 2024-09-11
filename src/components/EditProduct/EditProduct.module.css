@@ -1,0 +1,50 @@
+.str{
+    padding-top: 3% ;
+    padding-bottom: 3% ;
+    color:white ;
+    font-weight:bold;
+    text-align:center;
+}
+.compoedit{
+    
+    background: url('https://resources.easystore.co/website/blog/images/LJu8WaBZy5pD73qghftmWjWZf33sA2IHytXoexQG.jpeg');
+    background-size: cover;
+    height:88vh;
+    padding-top:100px
+  
+}
+input{
+    margin-top:1%;
+    margin-bottom:1%
+}
+.formedit{border:1px solid black;
+width:50%;
+padding:20px;
+margin: 0 auto ;
+box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.5);
+}
+
+.btnsave{
+    background-color: #ebecef;
+    border-radius:20px;
+    height: 40px;
+    width: 200px;
+    margin:0 auto;
+}
+
+.btnback{
+    background-color: black;
+    border-radius:20px;
+    height: 40px;
+    width: 200px;
+    margin:0 auto;
+    color: white ;
+    float:right ;
+}
+.reg{
+  
+    background: url('https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg');
+    background-size: cover;
+    height:100vh;
+
+}

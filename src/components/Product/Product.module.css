@@ -1,0 +1,55 @@
+.product{
+    width: 200px;
+    background-color: #bdbdbd26;
+    border: 1px solid #433f3f;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    height: 377px;
+
+}
+.imagestyle{
+    width:100% ;
+    height: 184px;
+}
+
+.btnCat{
+    height: 29px;
+    width: 50px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #FF9800;
+}
+.descText{
+    line-height: 1.6rem;
+    overflow: hidden;
+    display: -webkit-box; 
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    max-height: 3.2rem;
+}
+.btnedit{
+    height: 29px;
+    width: 50px;
+    border-radius: 8px;
+    background-color: #252525;
+    color: #ffffff;
+}
+.btndel{
+    height: 29px;
+    width: 75px;
+    border-radius: 8px;
+    background-color: red;
+    color: #ffffff;
+    float: right;
+}
+.btnedit{
+    height: 29px;
+    width: 75px;
+    border-radius: 8px;
+    background-color: #214085;
+    color: #ffffff;
+
+    float: left;
+}
+

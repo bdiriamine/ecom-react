@@ -1,0 +1,44 @@
+.str{
+    padding-top: 3% ;
+    padding-bottom: 3% ;
+    color:white ;
+    font-weight:bold;
+    text-align:center;
+}
+.form{
+    
+    height: max-content;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10px;
+    gap: 10px;
+    border: 2px solid black;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-size: cover;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgb(26 26 26) 35%, rgb(53 52 48 / 60%) 100%);
+    color:white
+  
+}
+.btn{
+    background-color: #ebecef;
+    border-radius:20px;
+    height: 40px;
+    width: 200px;
+    margin:0 auto;
+}
+input{
+    border-radius:10px;
+    height: 30px;
+    width: 100%;
+}
+
+.reg{
+  
+    background: url('https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg');
+    background-size: cover;
+    height:100vh;
+
+}
